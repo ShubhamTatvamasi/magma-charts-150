@@ -115,6 +115,22 @@ entries:
     urls:
     - https://github.com/ShubhamTatvamasi/magma-charts-150/releases/download/orc8r-1.5.21/orc8r-1.5.21.tgz
     version: 1.5.21
+  secrets:
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: "2021-06-01T09:29:59.15813656Z"
+    description: A Helm chart to create magma orchestrator secrets
+    digest: 073ac4ab19df1a2283964e0d8985d500a8fb58b2600c8d2cb4605b1ca167f6c1
+    keywords:
+    - magma
+    - orc8r
+    - secrets
+    name: secrets
+    sources:
+    - https://github.com/magma/magma
+    urls:
+    - https://github.com/ShubhamTatvamasi/magma-charts-150/releases/download/secrets-0.1.10/secrets-0.1.10.tgz
+    version: 0.1.10
   wifi-orc8r:
   - apiVersion: v2
     appVersion: "1.0"
@@ -135,4 +151,4 @@ entries:
     urls:
     - https://github.com/ShubhamTatvamasi/magma-charts-150/releases/download/wifi-orc8r-0.2.1/wifi-orc8r-0.2.1.tgz
     version: 0.2.1
-generated: "2021-05-11T06:47:21.297677186Z"
+generated: "2021-06-01T09:29:59.158143361Z"
