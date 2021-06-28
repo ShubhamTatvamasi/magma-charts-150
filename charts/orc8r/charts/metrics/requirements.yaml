@@ -12,5 +12,5 @@
 dependencies:
   - name: thanos
     version: 0.3.28
-    repository: "@banzaicloud-stable"
+    repository: "https://kubernetes-charts.banzaicloud.com"
     condition: thanos.enabled
